@@ -1,8 +1,8 @@
-- 👋 Hi, my name is Nelson Ramírez @CaciqueCandela. I'm programming languages student. 
-- 👀 I’m interested in to learn about others programming languages like JavaScript, C++ or SQL.
+- 👋 Hi, my name is Nelson Ramírez @CaciqueCandela. I'm a programming languages student. 
+- 👀 I’m interested in learning about other programming languages like JavaScript, C++ or SQL.
 - 🌱 I’m currently learning Phyton.
 - 💞️ I’m looking to collaborate on differents projects related with web development, new technologies to improve myself as a professional and developer.
-- 📫 How to reach me in jaguar1077@gmail.com
+- 📫 How to reach me: You can write me at jaguar1077@gmail.com
 - 💻 Visit my LinkedIn profile here www.linkedin.com/in/NelsonRamirezGarcia
 
 <!---
